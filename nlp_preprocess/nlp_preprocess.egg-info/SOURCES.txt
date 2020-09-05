@@ -1,0 +1,14 @@
+.DS_Store
+LICENSE
+requirements.txt
+setup.py
+docs/.gitignore
+nlp_model/.gitignore
+nlp_preprocess/.gitignore
+nlp_preprocess/nlp_preprocess.egg-info/PKG-INFO
+nlp_preprocess/nlp_preprocess.egg-info/SOURCES.txt
+nlp_preprocess/nlp_preprocess.egg-info/dependency_links.txt
+nlp_preprocess/nlp_preprocess.egg-info/top_level.txt
+sample/.gitignore
+tests/.gitignore
+utility/.gitignore
