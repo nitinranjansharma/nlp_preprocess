@@ -1,1 +1,5 @@
-from data_handling_basic import TestPackage
+from case_unify import CaseUnify
+from htmlstrip import HTMLStrip
+from remove_extra_space import WhitespaceCorrect
+from remove_special_chars import SpecialChar
+from stopwords_removal import StopWords

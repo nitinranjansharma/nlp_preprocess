@@ -1,1 +1,5 @@
-
+case_unify
+htmlstrip
+remove_extra_space
+remove_special_chars
+stopwords_removal
